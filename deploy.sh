@@ -25,7 +25,7 @@ git commit -m "deploy (commit: $COMMIT)"
 
 # if you're using HTTPS/2FA authentication
 # git push -f https://github.com/<username>/<repo>.git master:gh-pages
-git push -f https://github.com/rubymoonhead/raya.jobs.git master:gh-pages
+git push -f https://github.com/rubymoonhead/raya-jobs.git master:gh-pages
 
 # if you're deploying to https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git main
